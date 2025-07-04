@@ -2,3 +2,5 @@ ML-backed trading bot that does sentiment analysis on recent financial news usin
 
 
 Built with: Alpaca Markets API, Python, PyTorch, FinBERT NLP Model
+
+![Screenshot](mltrader-ss.png)
